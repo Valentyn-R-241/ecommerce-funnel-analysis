@@ -13,3 +13,5 @@ The data comes from the public GA4 BigQuery dataset. I used SQL to prepare the d
 - A funnel chart showing each step: session start, view item, add to cart, checkout, purchase  
 - Filters for traffic source, device type, landing page, and more  
 - Charts showing purchases over time and top traffic sources  
+🔗 [View dashboard in Looker Studio](https://lookerstudio.google.com/reporting/ea0c9968-e1dd-4d8f-8a56-b362f7133ca2)
+![Preview](images/dashboard.png)
