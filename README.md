@@ -1,6 +1,5 @@
 # ecommerce-funnel-analysis
-Funnel analysis dashboard based on GA4 public dataset using BigQuery and Looker Studio.
-This is a dashboard project that shows how users move through an ecommerce sales funnel. The data comes from the public GA4 BigQuery dataset. I used SQL to prepare the data and visualized it in Looker Studio.
+Funnel analysis dashboard based on GA4 public dataset using BigQuery and Looker Studio. This is a dashboard project that shows how users move through an ecommerce sales funnel. The data comes from the public GA4 BigQuery dataset. I used SQL to prepare the data and visualized it in Looker Studio.
 
 Tools used
 	•	BigQuery for writing the SQL query
